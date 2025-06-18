@@ -132,7 +132,7 @@ async def ask_direction(message: types.Message, uid: int):
         return
 
     lang = user_data[uid]["lang"]
-    text = "Yo'nalishni tanlang:" if lang == "uz" else "Выберите направление:"
+    text = "qiziqtirgan yo'nalishni tanlang:" if lang == "uz" else "Выберите направление:"
     keyboard = InlineKeyboardMarkup(
         inline_keyboard=[
             [
