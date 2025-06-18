@@ -1,1 +1,1 @@
-web: gunicorn config.wsgi
+worker: python project.py
