@@ -1,0 +1,251 @@
+2025-06-17 19:28:11,987 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 19:28:12,596 - aiogram.dispatcher - INFO - Run polling for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-17 19:28:36,035 - aiogram.event - INFO - Update id=589865661 is handled. Duration 968 ms by bot id=8177026437
+2025-06-17 19:29:00,206 - aiogram.event - INFO - Update id=589865662 is handled. Duration 203 ms by bot id=8177026437
+2025-06-17 19:29:13,012 - aiogram.event - INFO - Update id=589865663 is handled. Duration 437 ms by bot id=8177026437
+2025-06-17 19:29:28,267 - aiogram.event - INFO - Update id=589865664 is handled. Duration 406 ms by bot id=8177026437
+2025-06-17 19:29:31,437 - aiogram.event - INFO - Update id=589865665 is handled. Duration 406 ms by bot id=8177026437
+2025-06-17 19:29:35,942 - aiogram.event - INFO - Update id=589865666 is handled. Duration 547 ms by bot id=8177026437
+2025-06-17 19:29:40,350 - aiogram.event - INFO - Update id=589865667 is handled. Duration 625 ms by bot id=8177026437
+2025-06-17 19:29:43,316 - aiogram.event - INFO - Update id=589865668 is handled. Duration 610 ms by bot id=8177026437
+2025-06-17 19:29:47,902 - aiogram.event - INFO - Update id=589865669 is handled. Duration 562 ms by bot id=8177026437
+2025-06-17 19:29:52,635 - aiogram.event - INFO - Update id=589865670 is handled. Duration 781 ms by bot id=8177026437
+2025-06-17 19:29:57,446 - aiogram.event - INFO - Update id=589865671 is handled. Duration 625 ms by bot id=8177026437
+2025-06-17 19:30:01,439 - aiogram.event - INFO - Update id=589865672 is handled. Duration 610 ms by bot id=8177026437
+2025-06-17 19:30:04,594 - aiogram.event - INFO - Update id=589865673 is handled. Duration 687 ms by bot id=8177026437
+2025-06-17 19:30:07,600 - aiogram.event - INFO - Update id=589865674 is handled. Duration 812 ms by bot id=8177026437
+2025-06-17 19:30:10,978 - aiogram.event - INFO - Update id=589865675 is handled. Duration 640 ms by bot id=8177026437
+2025-06-17 19:35:00,172 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] The network connection was aborted by the local system
+2025-06-17 19:35:00,172 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8177026437)
+2025-06-17 19:35:01,631 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8177026437)
+2025-06-17 19:35:02,140 - aiogram.event - INFO - Update id=589865676 is handled. Duration 516 ms by bot id=8177026437
+2025-06-17 19:35:04,788 - aiogram.event - INFO - Update id=589865677 is handled. Duration 577 ms by bot id=8177026437
+2025-06-17 19:35:20,518 - aiogram.event - INFO - Update id=589865678 is handled. Duration 421 ms by bot id=8177026437
+2025-06-17 19:35:24,603 - aiogram.event - INFO - Update id=589865679 is handled. Duration 406 ms by bot id=8177026437
+2025-06-17 19:35:30,649 - aiogram.event - INFO - Update id=589865680 is handled. Duration 718 ms by bot id=8177026437
+2025-06-17 19:35:37,266 - aiogram.event - INFO - Update id=589865681 is handled. Duration 781 ms by bot id=8177026437
+2025-06-17 19:35:41,189 - aiogram.event - INFO - Update id=589865682 is handled. Duration 610 ms by bot id=8177026437
+2025-06-17 19:35:48,357 - aiogram.event - INFO - Update id=589865683 is handled. Duration 406 ms by bot id=8177026437
+2025-06-17 19:35:50,917 - aiogram.event - INFO - Update id=589865684 is handled. Duration 514 ms by bot id=8177026437
+2025-06-17 19:35:52,657 - aiogram.event - INFO - Update id=589865685 is handled. Duration 407 ms by bot id=8177026437
+2025-06-17 19:35:58,116 - aiogram.event - INFO - Update id=589865686 is handled. Duration 546 ms by bot id=8177026437
+2025-06-17 19:36:01,771 - aiogram.event - INFO - Update id=589865687 is handled. Duration 641 ms by bot id=8177026437
+2025-06-17 19:36:06,192 - aiogram.event - INFO - Update id=589865688 is handled. Duration 625 ms by bot id=8177026437
+2025-06-17 19:36:15,524 - aiogram.event - INFO - Update id=589865689 is handled. Duration 641 ms by bot id=8177026437
+2025-06-17 19:36:20,103 - aiogram.event - INFO - Update id=589865690 is handled. Duration 421 ms by bot id=8177026437
+2025-06-17 19:52:31,938 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-06-17 19:52:31,938 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8177026437)
+2025-06-17 19:52:32,952 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-17 19:52:32,952 - aiogram.dispatcher - WARNING - Sleep for 1.139928 seconds and try again... (tryings = 1, bot id = 8177026437)
+2025-06-17 19:52:34,103 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-17 19:52:34,103 - aiogram.dispatcher - WARNING - Sleep for 1.454713 seconds and try again... (tryings = 2, bot id = 8177026437)
+2025-06-17 19:52:35,570 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-17 19:52:35,571 - aiogram.dispatcher - WARNING - Sleep for 1.897055 seconds and try again... (tryings = 3, bot id = 8177026437)
+2025-06-17 19:52:37,483 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-17 19:52:37,483 - aiogram.dispatcher - WARNING - Sleep for 2.431338 seconds and try again... (tryings = 4, bot id = 8177026437)
+2025-06-17 19:52:39,931 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-17 19:52:39,931 - aiogram.dispatcher - WARNING - Sleep for 3.192945 seconds and try again... (tryings = 5, bot id = 8177026437)
+2025-06-17 19:52:43,135 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-17 19:52:43,135 - aiogram.dispatcher - WARNING - Sleep for 4.174124 seconds and try again... (tryings = 6, bot id = 8177026437)
+2025-06-17 19:52:47,321 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-17 19:52:47,321 - aiogram.dispatcher - WARNING - Sleep for 4.993897 seconds and try again... (tryings = 7, bot id = 8177026437)
+2025-06-17 20:12:04,420 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-17 20:12:04,420 - aiogram.dispatcher - WARNING - Sleep for 5.037820 seconds and try again... (tryings = 8, bot id = 8177026437)
+2025-06-18 09:04:46,761 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:04:46,762 - aiogram.dispatcher - WARNING - Sleep for 5.220827 seconds and try again... (tryings = 9, bot id = 8177026437)
+2025-06-18 09:04:51,993 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:04:51,993 - aiogram.dispatcher - WARNING - Sleep for 4.952556 seconds and try again... (tryings = 10, bot id = 8177026437)
+2025-06-18 09:04:56,960 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:04:56,960 - aiogram.dispatcher - WARNING - Sleep for 5.075903 seconds and try again... (tryings = 11, bot id = 8177026437)
+2025-06-18 09:05:02,049 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:02,049 - aiogram.dispatcher - WARNING - Sleep for 4.941409 seconds and try again... (tryings = 12, bot id = 8177026437)
+2025-06-18 09:05:07,009 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:07,010 - aiogram.dispatcher - WARNING - Sleep for 5.083259 seconds and try again... (tryings = 13, bot id = 8177026437)
+2025-06-18 09:05:12,100 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:12,100 - aiogram.dispatcher - WARNING - Sleep for 5.083648 seconds and try again... (tryings = 14, bot id = 8177026437)
+2025-06-18 09:05:17,190 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:17,191 - aiogram.dispatcher - WARNING - Sleep for 5.086661 seconds and try again... (tryings = 15, bot id = 8177026437)
+2025-06-18 09:05:22,291 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:22,291 - aiogram.dispatcher - WARNING - Sleep for 4.911831 seconds and try again... (tryings = 16, bot id = 8177026437)
+2025-06-18 09:05:27,218 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:27,219 - aiogram.dispatcher - WARNING - Sleep for 4.781246 seconds and try again... (tryings = 17, bot id = 8177026437)
+2025-06-18 09:05:32,016 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:32,017 - aiogram.dispatcher - WARNING - Sleep for 5.113263 seconds and try again... (tryings = 18, bot id = 8177026437)
+2025-06-18 09:05:37,140 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:37,141 - aiogram.dispatcher - WARNING - Sleep for 4.946862 seconds and try again... (tryings = 19, bot id = 8177026437)
+2025-06-18 09:05:42,102 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:42,102 - aiogram.dispatcher - WARNING - Sleep for 5.047473 seconds and try again... (tryings = 20, bot id = 8177026437)
+2025-06-18 09:05:47,162 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:47,162 - aiogram.dispatcher - WARNING - Sleep for 5.055593 seconds and try again... (tryings = 21, bot id = 8177026437)
+2025-06-18 09:05:52,228 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:52,228 - aiogram.dispatcher - WARNING - Sleep for 4.985389 seconds and try again... (tryings = 22, bot id = 8177026437)
+2025-06-18 09:05:57,233 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:05:57,233 - aiogram.dispatcher - WARNING - Sleep for 5.024049 seconds and try again... (tryings = 23, bot id = 8177026437)
+2025-06-18 09:06:02,273 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:02,274 - aiogram.dispatcher - WARNING - Sleep for 5.164352 seconds and try again... (tryings = 24, bot id = 8177026437)
+2025-06-18 09:06:07,450 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:07,450 - aiogram.dispatcher - WARNING - Sleep for 5.011085 seconds and try again... (tryings = 25, bot id = 8177026437)
+2025-06-18 09:06:12,472 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:12,472 - aiogram.dispatcher - WARNING - Sleep for 4.806068 seconds and try again... (tryings = 26, bot id = 8177026437)
+2025-06-18 09:06:17,290 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:17,290 - aiogram.dispatcher - WARNING - Sleep for 4.923278 seconds and try again... (tryings = 27, bot id = 8177026437)
+2025-06-18 09:06:22,226 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:22,226 - aiogram.dispatcher - WARNING - Sleep for 5.098960 seconds and try again... (tryings = 28, bot id = 8177026437)
+2025-06-18 09:06:27,341 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:27,341 - aiogram.dispatcher - WARNING - Sleep for 5.176998 seconds and try again... (tryings = 29, bot id = 8177026437)
+2025-06-18 09:06:32,522 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:32,523 - aiogram.dispatcher - WARNING - Sleep for 5.080226 seconds and try again... (tryings = 30, bot id = 8177026437)
+2025-06-18 09:06:37,617 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:37,617 - aiogram.dispatcher - WARNING - Sleep for 4.877884 seconds and try again... (tryings = 31, bot id = 8177026437)
+2025-06-18 09:06:42,510 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:42,510 - aiogram.dispatcher - WARNING - Sleep for 4.955347 seconds and try again... (tryings = 32, bot id = 8177026437)
+2025-06-18 09:06:47,471 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:47,471 - aiogram.dispatcher - WARNING - Sleep for 4.900929 seconds and try again... (tryings = 33, bot id = 8177026437)
+2025-06-18 09:06:52,380 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:52,380 - aiogram.dispatcher - WARNING - Sleep for 5.007337 seconds and try again... (tryings = 34, bot id = 8177026437)
+2025-06-18 09:06:57,407 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:06:57,407 - aiogram.dispatcher - WARNING - Sleep for 4.952151 seconds and try again... (tryings = 35, bot id = 8177026437)
+2025-06-18 09:07:02,365 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:02,366 - aiogram.dispatcher - WARNING - Sleep for 5.101809 seconds and try again... (tryings = 36, bot id = 8177026437)
+2025-06-18 09:07:07,486 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:07,486 - aiogram.dispatcher - WARNING - Sleep for 5.052926 seconds and try again... (tryings = 37, bot id = 8177026437)
+2025-06-18 09:07:12,549 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:12,549 - aiogram.dispatcher - WARNING - Sleep for 4.869686 seconds and try again... (tryings = 38, bot id = 8177026437)
+2025-06-18 09:07:17,437 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:17,437 - aiogram.dispatcher - WARNING - Sleep for 4.984423 seconds and try again... (tryings = 39, bot id = 8177026437)
+2025-06-18 09:07:22,436 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:22,436 - aiogram.dispatcher - WARNING - Sleep for 5.123423 seconds and try again... (tryings = 40, bot id = 8177026437)
+2025-06-18 09:07:27,574 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:27,575 - aiogram.dispatcher - WARNING - Sleep for 4.925220 seconds and try again... (tryings = 41, bot id = 8177026437)
+2025-06-18 09:07:32,510 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:32,510 - aiogram.dispatcher - WARNING - Sleep for 4.877369 seconds and try again... (tryings = 42, bot id = 8177026437)
+2025-06-18 09:07:37,394 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:37,395 - aiogram.dispatcher - WARNING - Sleep for 5.009165 seconds and try again... (tryings = 43, bot id = 8177026437)
+2025-06-18 09:07:42,421 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:42,422 - aiogram.dispatcher - WARNING - Sleep for 4.987770 seconds and try again... (tryings = 44, bot id = 8177026437)
+2025-06-18 09:07:47,413 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:47,413 - aiogram.dispatcher - WARNING - Sleep for 4.960868 seconds and try again... (tryings = 45, bot id = 8177026437)
+2025-06-18 09:07:52,392 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-06-18 09:07:52,392 - aiogram.dispatcher - WARNING - Sleep for 5.070875 seconds and try again... (tryings = 46, bot id = 8177026437)
+2025-06-18 09:21:31,753 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-18 09:21:31,753 - aiogram.dispatcher - WARNING - Sleep for 4.967982 seconds and try again... (tryings = 47, bot id = 8177026437)
+2025-06-18 09:21:36,842 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-18 09:21:36,842 - aiogram.dispatcher - WARNING - Sleep for 4.968734 seconds and try again... (tryings = 48, bot id = 8177026437)
+2025-06-18 09:21:41,906 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-18 09:21:41,906 - aiogram.dispatcher - WARNING - Sleep for 4.928635 seconds and try again... (tryings = 49, bot id = 8177026437)
+2025-06-18 09:21:46,932 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-18 09:21:46,932 - aiogram.dispatcher - WARNING - Sleep for 4.930487 seconds and try again... (tryings = 50, bot id = 8177026437)
+2025-06-18 09:21:52,000 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-18 09:21:52,000 - aiogram.dispatcher - WARNING - Sleep for 4.949940 seconds and try again... (tryings = 51, bot id = 8177026437)
+2025-06-18 09:21:57,048 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-18 09:21:57,048 - aiogram.dispatcher - WARNING - Sleep for 5.172922 seconds and try again... (tryings = 52, bot id = 8177026437)
+2025-06-18 09:22:02,330 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-18 09:22:02,330 - aiogram.dispatcher - WARNING - Sleep for 5.047810 seconds and try again... (tryings = 53, bot id = 8177026437)
+2025-06-18 09:22:07,474 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2025-06-18 09:22:07,474 - aiogram.dispatcher - WARNING - Sleep for 5.077869 seconds and try again... (tryings = 54, bot id = 8177026437)
+2025-06-18 09:22:10,927 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 09:22:12,969 - aiogram.dispatcher - INFO - Polling stopped for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:24:27,065 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 09:24:27,435 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 09:24:47,815 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 09:24:48,136 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 09:27:59,798 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 09:28:02,355 - aiogram.dispatcher - INFO - Run polling for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:28:02,809 - aiogram.event - INFO - Update id=589865696 is handled. Duration 359 ms by bot id=8177026437
+2025-06-18 09:28:06,527 - aiogram.event - INFO - Update id=589865699 is handled. Duration 125 ms by bot id=8177026437
+2025-06-18 09:28:07,614 - aiogram.event - INFO - Update id=589865700 is handled. Duration 266 ms by bot id=8177026437
+2025-06-18 09:28:09,602 - aiogram.event - INFO - Update id=589865701 is handled. Duration 233 ms by bot id=8177026437
+2025-06-18 09:28:11,108 - aiogram.event - INFO - Update id=589865702 is handled. Duration 266 ms by bot id=8177026437
+2025-06-18 09:28:30,598 - aiogram.event - INFO - Update id=589865703 is handled. Duration 453 ms by bot id=8177026437
+2025-06-18 09:28:35,150 - aiogram.event - INFO - Update id=589865704 is handled. Duration 389 ms by bot id=8177026437
+2025-06-18 09:28:39,738 - aiogram.event - INFO - Update id=589865705 is handled. Duration 406 ms by bot id=8177026437
+2025-06-18 09:28:41,765 - aiogram.event - INFO - Update id=589865706 is handled. Duration 437 ms by bot id=8177026437
+2025-06-18 09:28:44,792 - aiogram.event - INFO - Update id=589865707 is handled. Duration 344 ms by bot id=8177026437
+2025-06-18 09:28:48,251 - aiogram.event - INFO - Update id=589865708 is handled. Duration 250 ms by bot id=8177026437
+2025-06-18 09:28:51,461 - aiogram.event - INFO - Update id=589865709 is handled. Duration 218 ms by bot id=8177026437
+2025-06-18 09:28:53,216 - aiogram.event - INFO - Update id=589865710 is handled. Duration 312 ms by bot id=8177026437
+2025-06-18 09:28:55,413 - aiogram.event - INFO - Update id=589865711 is handled. Duration 250 ms by bot id=8177026437
+2025-06-18 09:29:02,506 - aiogram.event - INFO - Update id=589865712 is handled. Duration 344 ms by bot id=8177026437
+2025-06-18 09:29:06,602 - aiogram.event - INFO - Update id=589865713 is handled. Duration 405 ms by bot id=8177026437
+2025-06-18 09:29:10,109 - aiogram.event - INFO - Update id=589865714 is handled. Duration 358 ms by bot id=8177026437
+2025-06-18 09:29:13,930 - aiogram.event - INFO - Update id=589865715 is handled. Duration 234 ms by bot id=8177026437
+2025-06-18 09:29:21,054 - aiogram.event - INFO - Update id=589865716 is handled. Duration 109 ms by bot id=8177026437
+2025-06-18 09:33:02,263 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 09:33:02,512 - aiogram.dispatcher - INFO - Polling stopped for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:33:05,801 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 09:33:06,222 - aiogram.dispatcher - INFO - Run polling for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:33:23,916 - aiogram.event - INFO - Update id=589865717 is handled. Duration 328 ms by bot id=8177026437
+2025-06-18 09:33:28,212 - aiogram.event - INFO - Update id=589865718 is not handled. Duration 0 ms by bot id=8177026437
+2025-06-18 09:33:30,255 - aiogram.event - INFO - Update id=589865719 is not handled. Duration 0 ms by bot id=8177026437
+2025-06-18 09:33:32,584 - aiogram.event - INFO - Update id=589865720 is not handled. Duration 0 ms by bot id=8177026437
+2025-06-18 09:38:01,440 - aiogram.event - INFO - Update id=589865721 is handled. Duration 125 ms by bot id=8177026437
+2025-06-18 09:45:15,779 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 09:45:16,042 - aiogram.dispatcher - INFO - Polling stopped for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:45:19,385 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 09:45:19,772 - aiogram.dispatcher - INFO - Run polling for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:45:27,192 - aiogram.event - INFO - Update id=589865722 is handled. Duration 875 ms by bot id=8177026437
+2025-06-18 09:48:11,663 - aiogram.event - INFO - Update id=589865723 is handled. Duration 93 ms by bot id=8177026437
+2025-06-18 09:48:14,216 - aiogram.event - INFO - Update id=589865724 is handled. Duration 125 ms by bot id=8177026437
+2025-06-18 09:48:19,770 - aiogram.event - INFO - Update id=589865725 is handled. Duration 233 ms by bot id=8177026437
+2025-06-18 09:48:23,420 - aiogram.event - INFO - Update id=589865726 is handled. Duration 109 ms by bot id=8177026437
+2025-06-18 09:48:25,083 - aiogram.event - INFO - Update id=589865727 is handled. Duration 234 ms by bot id=8177026437
+2025-06-18 09:48:39,421 - aiogram.event - INFO - Update id=589865728 is handled. Duration 234 ms by bot id=8177026437
+2025-06-18 09:48:40,968 - aiogram.event - INFO - Update id=589865729 is handled. Duration 233 ms by bot id=8177026437
+2025-06-18 09:48:43,553 - aiogram.event - INFO - Update id=589865730 is handled. Duration 359 ms by bot id=8177026437
+2025-06-18 09:48:45,094 - aiogram.event - INFO - Update id=589865731 is handled. Duration 358 ms by bot id=8177026437
+2025-06-18 09:48:48,122 - aiogram.event - INFO - Update id=589865732 is handled. Duration 141 ms by bot id=8177026437
+2025-06-18 09:48:52,303 - aiogram.event - INFO - Update id=589865733 is handled. Duration 516 ms by bot id=8177026437
+2025-06-18 09:51:19,464 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 09:51:19,739 - aiogram.dispatcher - INFO - Polling stopped for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:51:23,029 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 09:51:23,413 - aiogram.dispatcher - INFO - Run polling for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:51:31,855 - aiogram.event - INFO - Update id=589865734 is handled. Duration 1125 ms by bot id=8177026437
+2025-06-18 09:51:47,022 - aiogram.event - INFO - Update id=589865735 is handled. Duration 125 ms by bot id=8177026437
+2025-06-18 09:51:51,127 - aiogram.event - INFO - Update id=589865736 is handled. Duration 250 ms by bot id=8177026437
+2025-06-18 09:52:30,719 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 09:52:30,982 - aiogram.dispatcher - INFO - Polling stopped for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:52:34,171 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 09:52:34,491 - aiogram.dispatcher - INFO - Run polling for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 09:52:43,240 - aiogram.event - INFO - Update id=589865737 is handled. Duration 312 ms by bot id=8177026437
+2025-06-18 09:52:44,694 - aiogram.event - INFO - Update id=589865738 is handled. Duration 250 ms by bot id=8177026437
+2025-06-18 09:58:05,953 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-18 09:58:05,953 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8177026437)
+2025-06-18 09:58:06,955 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-18 09:58:06,955 - aiogram.dispatcher - WARNING - Sleep for 1.272518 seconds and try again... (tryings = 1, bot id = 8177026437)
+2025-06-18 09:58:08,233 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2025-06-18 09:58:08,233 - aiogram.dispatcher - WARNING - Sleep for 1.693108 seconds and try again... (tryings = 2, bot id = 8177026437)
+2025-06-18 09:58:20,220 - aiogram.dispatcher - INFO - Connection established (tryings = 3, bot id = 8177026437)
+2025-06-18 10:03:25,764 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 10:03:26,024 - aiogram.dispatcher - INFO - Polling stopped for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 10:03:30,300 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 10:03:30,681 - aiogram.dispatcher - INFO - Run polling for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 10:03:50,678 - aiogram.event - INFO - Update id=589865739 is handled. Duration 328 ms by bot id=8177026437
+2025-06-18 10:03:52,298 - aiogram.event - INFO - Update id=589865740 is handled. Duration 359 ms by bot id=8177026437
+2025-06-18 10:04:05,220 - aiogram.event - INFO - Update id=589865741 is handled. Duration 108 ms by bot id=8177026437
+2025-06-18 10:04:06,624 - aiogram.event - INFO - Update id=589865742 is handled. Duration 344 ms by bot id=8177026437
+2025-06-18 10:04:18,138 - aiogram.event - INFO - Update id=589865743 is handled. Duration 312 ms by bot id=8177026437
+2025-06-18 10:04:25,365 - aiogram.event - INFO - Update id=589865744 is handled. Duration 125 ms by bot id=8177026437
+2025-06-18 10:04:27,007 - aiogram.event - INFO - Update id=589865745 is handled. Duration 250 ms by bot id=8177026437
+2025-06-18 10:04:28,379 - aiogram.event - INFO - Update id=589865746 is handled. Duration 360 ms by bot id=8177026437
+2025-06-18 10:04:29,943 - aiogram.event - INFO - Update id=589865747 is handled. Duration 250 ms by bot id=8177026437
+2025-06-18 10:07:29,875 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 10:07:30,133 - aiogram.dispatcher - INFO - Polling stopped for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 10:07:33,864 - aiogram.dispatcher - INFO - Start polling
+2025-06-18 10:07:34,353 - aiogram.dispatcher - INFO - Run polling for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
+2025-06-18 10:07:37,570 - aiogram.event - INFO - Update id=589865748 is handled. Duration 328 ms by bot id=8177026437
+2025-06-18 10:07:39,013 - aiogram.event - INFO - Update id=589865749 is handled. Duration 250 ms by bot id=8177026437
+2025-06-18 10:07:40,132 - aiogram.event - INFO - Update id=589865750 is handled. Duration 235 ms by bot id=8177026437
+2025-06-18 10:07:42,501 - aiogram.event - INFO - Update id=589865751 is handled. Duration 250 ms by bot id=8177026437
+2025-06-18 10:07:45,992 - aiogram.event - INFO - Update id=589865752 is handled. Duration 469 ms by bot id=8177026437
+2025-06-18 10:07:48,599 - aiogram.event - INFO - Update id=589865753 is handled. Duration 296 ms by bot id=8177026437
+2025-06-18 10:07:52,093 - aiogram.event - INFO - Update id=589865754 is handled. Duration 125 ms by bot id=8177026437
+2025-06-18 10:07:55,141 - aiogram.event - INFO - Update id=589865755 is handled. Duration 389 ms by bot id=8177026437
+2025-06-18 10:07:56,864 - aiogram.event - INFO - Update id=589865756 is handled. Duration 266 ms by bot id=8177026437
+2025-06-18 10:07:59,015 - aiogram.event - INFO - Update id=589865757 is handled. Duration 280 ms by bot id=8177026437
+2025-06-18 10:08:00,636 - aiogram.event - INFO - Update id=589865758 is handled. Duration 375 ms by bot id=8177026437
+2025-06-18 10:15:25,186 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-06-18 10:15:25,188 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8177026437)
+2025-06-18 10:15:36,556 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8177026437)
+2025-06-18 10:16:00,119 - aiogram.event - INFO - Update id=589865759 is handled. Duration 656 ms by bot id=8177026437
+2025-06-18 10:18:01,026 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-18 10:18:01,291 - aiogram.dispatcher - INFO - Polling stopped for bot @Asil_power_bot id=8177026437 - 'AsilQuest'
